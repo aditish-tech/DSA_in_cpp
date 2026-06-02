@@ -1,2 +1,2 @@
 # DSA_in_cpp
-My journey of learning Data Structures and Algorithms in C++,including practice problems and solutions.
+🚀 My C++ Data Structures and Algorithms learning journey, featuring concept implementations, coding exercises, and problem-solving solutions to build a strong foundation in DSA. 💻✨
