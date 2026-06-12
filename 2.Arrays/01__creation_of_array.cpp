@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int arr[7],i;
-    cout<<"Enter any 7 array elements"<<endl;
+    cout<<"Enter array elements"<<endl;
     for(i=0;i<7;i++){
     cin>>arr[i];
     }
